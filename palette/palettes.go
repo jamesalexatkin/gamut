@@ -17,6 +17,8 @@ var (
 	RAL gamut.Palette
 	// CSS Named Color Palette
 	CSS gamut.Palette
+	// EverforestDarkMedium Palette
+	EverforestDarkMedium gamut.Palette
 )
 
 // AllPalettes returns a mix of all palettes defined in gamut
@@ -26,5 +28,6 @@ func AllPalettes() gamut.Palette {
 		MixedWith(Crayola).
 		MixedWith(Resene).
 		MixedWith(RAL).
-		MixedWith(CSS)
+		MixedWith(CSS).
+		MixedWith(EverforestDarkMedium)
 }
