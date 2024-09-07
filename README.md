@@ -172,7 +172,7 @@ a pull request!
 | RAL        |    213 | https://en.wikipedia.org/wiki/List_of_RAL_colors             |
 | Resene     |    759 | http://www.resene.co.nz                                      |
 | Monokai    |     17 |                                                              |
-| Everforest |     26 | https://github.com/sainnhe/everforest                        |
+| Everforest |    156 | https://github.com/sainnhe/everforest                        |
 
 The function Colors lets you retrieve all colors in a palette:
 
